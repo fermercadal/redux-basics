@@ -1,3 +1,3 @@
-# Redux demo
+# Redux basics
 
-Quick node projec to demo Redux.
+Quick node projec to demo Redux basics.
